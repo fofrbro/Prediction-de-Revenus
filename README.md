@@ -41,4 +41,4 @@ Les tests verifient notamment la reproductibilite de la simulation, la gestion d
 
 ## Auteur
 
-Alain Beguin
+Cheikhou FOFANA
