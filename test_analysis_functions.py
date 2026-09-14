@@ -3,14 +3,14 @@ import unittest
 import numpy as np
 import pandas as pd
 
-from functions1 import (
+from income_mobility import (
     compute_quantiles,
     conditional_distributions,
     generate_incomes,
     proba_cond,
     quantiles,
 )
-from functions2 import backward_selected
+from model_selection import backward_selected
 
 
 class FunctionsTestCase(unittest.TestCase):

@@ -9,7 +9,7 @@ Le projet cherche a expliquer le revenu d'un enfant a partir de variables liees 
 - la classe de revenu des parents (`c_i_parent`) ;
 - le coefficient d'elasticite intergenerationnelle (`pj`).
 
-Les resultats ci-dessous sont ceux sauvegardes dans `Partie_2_P7.ipynb`.
+Les resultats ci-dessous sont ceux sauvegardes dans `02_modelisation_revenus.ipynb`.
 
 ## 2. Resultats principaux
 
@@ -99,7 +99,7 @@ Le signe negatif du coefficient du Gini suggere qu'une plus forte inegalite est 
 - tester des interactions, notamment `ln_mj * c_i_parent` ;
 - comparer avec une regression regularisee et un modele non lineaire ;
 - conserver une analyse par pays ou par region pour verifier la stabilite des coefficients ;
-- documenter explicitement la construction de `analyse.csv` et la gestion des valeurs manquantes.
+- documenter explicitement la construction de `analysis_dataset.csv` et la gestion des valeurs manquantes.
 
 ## Conclusion
 
